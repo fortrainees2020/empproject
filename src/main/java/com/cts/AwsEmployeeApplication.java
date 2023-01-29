@@ -10,6 +10,7 @@ public class AwsEmployeeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AwsEmployeeApplication.class, args);
+		System.out.println(" First Editing");
 	}
 
 }
